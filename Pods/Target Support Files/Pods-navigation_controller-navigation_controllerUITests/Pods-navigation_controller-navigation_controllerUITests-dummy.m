@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_navigation_controller_navigation_controllerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_navigation_controller_navigation_controllerUITests
+@end
